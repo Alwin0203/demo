@@ -7,3 +7,4 @@ search engine has using with category list
 account page
 address page
 phone number
+adding history of the process
