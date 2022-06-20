@@ -4,3 +4,5 @@ login page
 registeration page
 logout page
 search engine has using with category list
+account page
+address page
