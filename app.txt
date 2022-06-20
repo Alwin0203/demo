@@ -1,6 +1,0 @@
-login page
-registeration page
-sign up
-sign in
-log out
-home page
