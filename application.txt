@@ -8,3 +8,4 @@ account page
 address page
 phone number
 adding history of the process
+adding members
